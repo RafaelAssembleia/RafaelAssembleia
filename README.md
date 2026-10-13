@@ -103,7 +103,7 @@ public class Rafael {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-141022?style=for-the-badge&logo=linkedin&logoColor=C084FC)](www.linkedin.com/in/rafael-assembleia-6176a428a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-141022?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://www.linkedin.com/in/rafael-assembleia-6176a428a)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-141022?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/RafaelAssembleia)
 
 *Always curious. Always building.* 💜
