@@ -28,6 +28,17 @@ public class Rafael {
 - 🏆 **3rd place** in an internal **Globo hackathon** among approximately **750 projects**, with a team-built AI agent using **Salesforce Agentforce** that later reached production.
 - 🚀 Building backend and full-stack solutions that connect technical decisions with real business needs.
 
+## 📊 GitHub signals
+
+<div align="center">
+
+<!-- Replace RafaelAssembleia in both URLs below. Third-party cards may be temporarily unavailable. -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelAssembleia&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0A1A&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAssembleia&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0A1A&title_color=C084FC&text_color=E9D5FF" alt="Most used languages" />
+
+</div>
+
 ## ⚡ Tech universe
 
 <div align="center">
@@ -87,17 +98,6 @@ public class Rafael {
 > **Globo Internal Hackathon — 3rd place among ~750 projects**
 >
 > Collaborated on an AI agent built with **Salesforce Agentforce**. The solution later reached production, reinforcing my interest in bringing AI ideas into practical business workflows.
-
-## 📊 GitHub signals
-
-<div align="center">
-
-<!-- Replace RafaelAssembleia in both URLs below. Third-party cards may be temporarily unavailable. -->
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelAssembleia&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0A1A&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAssembleia&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0A1A&title_color=C084FC&text_color=E9D5FF" alt="Most used languages" />
-
-</div>
 
 ## 🌌 Let's connect
 
